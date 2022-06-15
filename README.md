@@ -17,7 +17,7 @@ A Ortholinear keyboard that supports multiple layouts, including 4row and 5row o
  - Solder hotswap sockets on the PCB
  - Solder Blackpills with the buttons facing up. B12 to Square pad
  - Optional: Solder rotary encoders
- - Optional: 2u Stabilizer
+ - Optional: Install stabilizer
 
 Firmware is not included in QMK repo, you will have to compile it yourself. Most of the code is copied and stripped down from Vattern's Grandiceps keyboard.
 Blackpill bootloader: hold down the boot button on the blackpill, then press NRST. it might take some tries.
