@@ -1,5 +1,5 @@
 # Kebu
-A Ortholinear keyboard that supports multiple layouts, including 4row and 5row.
+A Ortholinear keyboard that supports multiple layouts, including 4row and 5row options.
 
 # Parts
  - 47-61x Hotswap sockets (MX or Choc)
