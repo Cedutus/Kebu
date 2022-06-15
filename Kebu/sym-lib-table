@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "Kebu-rescue")(type "Legacy")(uri "${KIPRJMOD}/Kebu-rescue.lib")(options "")(descr ""))
+)
