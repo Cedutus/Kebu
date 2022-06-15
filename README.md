@@ -1,6 +1,6 @@
 # Kebu
 A Ortholinear keyboard that supports multiple layouts, including 4row and 5row options.
-
+![Kebu](/Assets/kebu.jpg)
 # Parts
  - 47-61x Hotswap sockets (MX or Choc)
  - 47-61x SMD Diodes depending on layout chosen.
